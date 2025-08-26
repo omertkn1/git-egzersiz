@@ -1,1 +1,1 @@
-"feature1 dosyasndan selamlar" 
+"Ben feature1 branchinde de§iŸiklik yaptm" 
