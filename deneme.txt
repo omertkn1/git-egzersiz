@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Ben main branchinde de§iŸiklik yaptm" 
+=======
+"Ben feature1 branchinde de§iŸiklik yaptm" 
+>>>>>>> feature1
